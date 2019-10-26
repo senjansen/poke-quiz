@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Pokemon does Pikachu evolve into?",
+    "choice1": "Electivire",
+    "choice2": "Raichu",
+    "answer": 2
+  },
+  {
+    "question":
+      "What's the most effective Poke Ball in the game?",
+    "choice1": "Master Ball",
+    "choice2": "Ultra Ball",
+    "answer": 1
+  },
+  {
+    "question": "What's the device trainers use to keep a record of their Pokemon encounters?",
+    "choice1": "Pokefinder",
+    "choice2": "Pokedex",
+    "answer": 2
+  },
+  {
+    "question":
+      "If you need to buy supplies in the Pokemon world, where do you go?",
+    "choice1": "Pokemon Center",
+    "choice2": "Pokemon Mart",
+    "answer": 2
+  },
+  {
+    "question": "What are the three types of starter Pokemon?",
+    "choice1": "Grass, Fire and Water",
+    "choice2": "Electric, Ground and Poison",
+    "answer": 1
+  },
+  {
+    "question": "What type of Pokemon is Mewtwo?",
+    "choice1": "Fighting",
+    "choice2": "Psychic",
+    "answer": 2
+  },
+  {
+    "question": "What type of attack are Flying type Pokemon immune to?",
+    "choice1": "Water",
+    "choice2": "Ground",
+    "answer": 2
+  },
+  {
+    "question": "What's this professor's name?",
+    "choice1": "Professor Oak",
+    "choice2": "Professor Elm",
+    "answer": 1
+  }
+]
